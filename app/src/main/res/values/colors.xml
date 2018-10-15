@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#14b8ef</color>
+    <color name="Decrypt">#24af4b</color>
+    <color name="Encrypt">#b0df21</color>
+    <color name="Upload">#52d2ef</color>
+    <color name="Exit">#e74747</color>
+</resources>

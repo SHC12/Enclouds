@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/media/shc/KULIAH/Project/TA/Enclouds/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/shc/.android/build-cache/aca488647a439e29e3a9f5896fe8af4cfd693ca7/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/shc/KULIAH/Project/TA/Enclouds/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/shc/.android/build-cache/aca488647a439e29e3a9f5896fe8af4cfd693ca7/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/media/shc/KULIAH/Project/TA/Enclouds/app/build/intermediates/res/merged/debug/layout-v21/place_autocomplete_fragment.xml",
+        "source": "/home/shc/.android/build-cache/9907440ff769648021631e780b3592568134f178/output/res/layout-v21/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/media/shc/KULIAH/Project/TA/Enclouds/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/shc/.android/build-cache/aca488647a439e29e3a9f5896fe8af4cfd693ca7/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/media/shc/KULIAH/Project/TA/Enclouds/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/shc/.android/build-cache/aca488647a439e29e3a9f5896fe8af4cfd693ca7/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

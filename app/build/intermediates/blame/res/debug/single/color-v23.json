@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/media/shc/KULIAH/Project/TA/Enclouds/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/shc/.android/build-cache/aca488647a439e29e3a9f5896fe8af4cfd693ca7/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/media/shc/KULIAH/Project/TA/Enclouds/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/shc/.android/build-cache/aca488647a439e29e3a9f5896fe8af4cfd693ca7/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/media/shc/KULIAH/Project/TA/Enclouds/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/shc/.android/build-cache/aca488647a439e29e3a9f5896fe8af4cfd693ca7/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/media/shc/KULIAH/Project/TA/Enclouds/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/shc/.android/build-cache/aca488647a439e29e3a9f5896fe8af4cfd693ca7/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/media/shc/KULIAH/Project/TA/Enclouds/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/shc/.android/build-cache/aca488647a439e29e3a9f5896fe8af4cfd693ca7/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/media/shc/KULIAH/Project/TA/Enclouds/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/shc/.android/build-cache/aca488647a439e29e3a9f5896fe8af4cfd693ca7/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/media/shc/KULIAH/Project/TA/Enclouds/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/home/shc/.android/build-cache/6a7660a159a6f5b1e4051336684dbc6ab86e552a/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/media/shc/KULIAH/Project/TA/Enclouds/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/shc/.android/build-cache/aca488647a439e29e3a9f5896fe8af4cfd693ca7/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/media/shc/KULIAH/Project/TA/Enclouds/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/shc/.android/build-cache/aca488647a439e29e3a9f5896fe8af4cfd693ca7/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/media/shc/KULIAH/Project/TA/Enclouds/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/shc/.android/build-cache/aca488647a439e29e3a9f5896fe8af4cfd693ca7/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/media/shc/KULIAH/Project/TA/Enclouds/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/shc/.android/build-cache/aca488647a439e29e3a9f5896fe8af4cfd693ca7/output/res/color-v23/abc_tint_switch_thumb.xml"
+    }
+]
